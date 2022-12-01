@@ -1,0 +1,2 @@
+Methods for optimization: 
+batch size <- doesn't seem to change anything 
